@@ -1,0 +1,11 @@
+.card-kari {
+  color: #000;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: rgba(255, 255, 255, 0.6);
+  border-radius: 0.5rem;
+  box-shadow: 4px 4px 21px 5px rgba(0, 0, 0, 0.55);
+}
